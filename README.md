@@ -1,13 +1,10 @@
 # MovieWeb-MVC
 
-![Screenshot (2771)](https://github.com/bilaaripa/MovieWeb-MVC/assets/114417418/d2e066aa-6dad-4b8c-86c2-6db94255c734)
+![Screenshot (1615)](https://github.com/RuleLuluDamara/web-app-application/assets/105763198/2afce946-cef2-4270-a8df-02bc4a49aa45)
+![Screenshot (1616)](https://github.com/RuleLuluDamara/web-app-application/assets/105763198/057f33a9-1ea5-4409-af66-3f365bd497ec)
+![Screenshot (1617)](https://github.com/RuleLuluDamara/web-app-application/assets/105763198/886f4efc-aefd-4dc9-9540-da37afc21957)
+![Screenshot (1618)](https://github.com/RuleLuluDamara/web-app-application/assets/105763198/9d9fbddc-9a42-40dd-bad2-cdc33696f280)
+![Screenshot (1619)](https://github.com/RuleLuluDamara/web-app-application/assets/105763198/0144336f-1f34-431e-8850-47bc615d68ba)
 
-![Screenshot (2772)](https://github.com/bilaaripa/MovieWeb-MVC/assets/114417418/e245ab97-cfaa-43ac-9fbe-169171e9c497)
-
-![Screenshot (2773)](https://github.com/bilaaripa/MovieWeb-MVC/assets/114417418/398ed573-ec56-4a72-82fc-a596856524b1)
-
-![Screenshot (2777)](https://github.com/bilaaripa/MovieWeb-MVC/assets/114417418/196121ea-dc1f-4681-9336-79bcc878fcd5)
-
-![Screenshot (2779)](https://github.com/bilaaripa/MovieWeb-MVC/assets/114417418/65e07959-0eb5-42ae-bb2c-f341faa2256c)
-
-![Screenshot (2781)](https://github.com/bilaaripa/MovieWeb-MVC/assets/114417418/fda7a553-41cd-4ce1-b720-381706114f39)
+Video Demo Aplikasi
+[Index---RazorPagesMovie.webm](https://github.com/RuleLuluDamara/web-app-application/assets/105763198/a9327a9a-b30c-42df-ac11-83429bf29a99)
